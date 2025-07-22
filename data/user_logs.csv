@@ -1,0 +1,29 @@
+input_type,distance,elevation,surface,matched_route
+gpx,1.56,170.56,Unknown,Uploaded GPX File
+manual,1.0,0.0,Paved,"Match found: route1.gpx (1.6 km, 171.0 m)"
+sameen,gpx,1.56,170.56,Unknown,Uploaded GPX File
+sameen,manual,1.5,0.0,Gravel,"Match found: route1.gpx (1.6 km, 171.0 m)"
+sameen,manual,1.5,0.0,Gravel,"Match found: route1.gpx (1.6 km, 171.0 m)"
+sameen,gpx,1.56,170.56,Unknown,Uploaded GPX File
+sameen,manual,1.0,0.0,Any,"Match found: route1.gpx (1.6 km, 171.0 m)"
+anonymous,gpx,1.56,170.56,From GPX,ORS RoundTrip
+anonymous,manual,1.0,0.0,Paved,"Match found: route1.gpx (1.6 km, 171.0 m)"
+ORS RoundTrip,vicky,gpx,4.13,173.58,From GPX
+"Match found: route1.gpx (1.6 km, 171.0 m)",vicky,manual,1.0,50.0,Paved
+"Match found: route1.gpx (1.6 km, 171.0 m)",vicky,manual,1.0,50.0,Paved
+"Match found: route1.gpx (1.6 km, 171.0 m)",vicky,manual,1.0,50.0,Paved
+ORS RoundTrip,ayesha,gpx,1.56,170.56,From GPX
+ORS Route,ayesha,manual,1.0,0.0,Any
+ORS RoundTrip Manual,ayesha,manual,1.0,0.0,Any
+ORS Route,ayesha,manual,1.0,0.0,Any
+ORS RoundTrip Manual,ayesha,manual,1.0,0.0,Any
+ORS RoundTrip Manual,ayesha,manual,1.0,0.0,Any
+ORS RoundTrip Manual,ayesha,manual,1.0,0.0,Any
+"Match found: route1.gpx (1.6 km, 171.0 m)",ayesha,manual,1.0,0.0,Any
+ORS Route,ayesha,manual,1.0,0.0,Any
+ORS RoundTrip Manual,ayesha,manual,1.0,0.0,Any
+ORS RoundTrip,sameen,gpx,1.56,170.56,From GPX
+ORS Route,sameen,manual,1.0,0.0,Any
+ORS RoundTrip Manual,sameen,manual,1.0,0.0,Any
+ORS RoundTrip Manual,ayesha,manual,1.0,0.0,Any
+"Match found: route1.gpx (1.6 km, 171.0 m)",ayesha,manual,1.0,10.0,Gravel
